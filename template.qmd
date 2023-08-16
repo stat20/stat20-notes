@@ -1,0 +1,22 @@
+---
+title: Sample Notes
+format:
+  stat20-notes-html: default
+---
+
+The defining element of data science is the centrality of data as the means of advancing our understanding of the world. The word "data" is used in many different ways, so let's write down a definition to get everyone on the same page.
+
+**Data**
+  ~ An item of (chiefly numerical) information, especially one obtained by scientific work, a number of which are typically collected together for reference, analysis, or calculation. From Latin *datum*: that which is given. Facts.
+
+This broad definition permits a staggering diversity in the forms that data can take. When you conducted a chemistry experiment in high school and recorded your measurements in a table in a lab notebook, that was data. When you registered for this class and your name showed on CalCentral, that was data. When the James Webb Space Telescope took a photo of the distant reaches of our solar system, recording levels of light pixel-by-pixel, that was data.
+
+Such diversity in data is more precisely described as diversity in the types of *variables* that are being measured in a data set.
+
+**Variable**
+  ~ A characteristic of an object or observational unit that can be measured and recorded.
+
+## section 2
+
+something else
+
