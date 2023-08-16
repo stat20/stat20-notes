@@ -1,9 +1,9 @@
-# <%= title %> Quarto Format
+# `stat20-notes` Quarto Format
 
 ## Installing
 
 ```bash
-quarto use template <stat20>/<%= filesafename %>
+quarto use template stat20/stat20-notes
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
