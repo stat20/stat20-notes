@@ -4,4 +4,5 @@
 .Ruserdata
 .DS_Store
 *.Rproj
-template.html
+*_files
+*.html
