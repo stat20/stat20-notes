@@ -11,5 +11,7 @@ contributes:
       code-fold: true
       code-link: true
       code-summary: ""
-    pdf: default
+      include-file-after: "../../assets/_links-to-materials.qmd"
+      filters:
+        - include-file-after.lua
 
