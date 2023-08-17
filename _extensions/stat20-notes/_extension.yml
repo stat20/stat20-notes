@@ -11,7 +11,7 @@ contributes:
       code-fold: true
       code-link: true
       code-summary: ""
-      include-file-after: "../../assets/_links-to-materials.qmd"
+      include-file-after: "assets/_links-to-materials.qmd"
       filters:
         - include-file-after.lua
 
