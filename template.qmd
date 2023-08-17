@@ -2,6 +2,7 @@
 title: Sample Notes
 format:
   stat20-notes-html: default
+include-file-after: "additional-doc.qmd"
 ---
 
 The defining element of data science is the centrality of data as the means of advancing our understanding of the world. The word "data" is used in many different ways, so let's write down a definition to get everyone on the same page.
@@ -15,8 +16,4 @@ Such diversity in data is more precisely described as diversity in the types of 
 
 **Variable**
   ~ A characteristic of an object or observational unit that can be measured and recorded.
-
-## section 2
-
-something else
 
